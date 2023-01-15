@@ -2,7 +2,6 @@
 
 A dummy app for learning Flutter development or testing Flutter/Dart packages. 
 
----
 ## What have I done to this app?
 
 ### 25-12-2022
@@ -15,6 +14,6 @@ Implementing <a href="https://pub.dev/packages/uni_links">uni_links</a> package 
 
 Links for testing:
 
-Opening the app: <a href="https://pratchayakhunsee.github.io/flutter_dummy_app_unil_links_test">https://pratchayakhunsee.github.io/flutter_dummy_app_unil_links_test</a>
+Opening the app: <a href="https://pratchayakhunsee.github.io/flutter_dummy_app_uni_links_test">https://pratchayakhunsee.github.io/flutter_dummy_app_uni_links_test</a>
 
-Opening the app at scan barcode page: <a href="https://pratchayakhunsee.github.io/flutter_dummy_app_unil_links_test?page=scan-barcode">https://pratchayakhunsee.github.io/flutter_dummy_app_unil_links_test?page=scan-barcode</a>
+Opening the app at scan barcode page: <a href="https://pratchayakhunsee.github.io/flutter_dummy_app_uni_links_test?page=scan-barcode">https://pratchayakhunsee.github.io/flutter_dummy_app_uni_links_test?page=scan-barcode</a>
